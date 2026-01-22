@@ -37,7 +37,7 @@ Aller dans le dossier et tester le script Python :
 cd /home/myself/Lowtech-guide
 python serialArduino.py
 ```
-Vérifier dans /assets/data1.csv que les données ont été enregistrer
+Vérifier dans /assets/data1.csv que les données ont été enregistrées.
 
 ### Lancement toutes les 15 minutes
 
