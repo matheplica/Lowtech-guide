@@ -12,7 +12,7 @@ Marche à suivre pour installer et récupérer les données de température, d'h
 * MQ135 : capteur CO2
 * breadboard
 * led qui capte la lumière
-* 10Kohm re`ésitance
+* 10Kohm résistance
 
 
 
